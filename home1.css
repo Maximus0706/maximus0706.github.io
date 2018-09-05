@@ -6,3 +6,7 @@ body {
     background-color: gold;
     min-height: 400px
 }
+
+.highlight{
+    color: lime
+}
